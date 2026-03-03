@@ -64,5 +64,5 @@ EOF
 
 echo ""
 echo "Policy file successfully written!"
-echo "Location: /usr/bin/policy-test-tool/policies.json"
+echo "Location: /usr/local/share/policy-test-tool/policies.json"
 echo "Configured for: $email"
