@@ -16,9 +16,9 @@ sleep 1
 
 read -p "Enter your email: " email
 
-mkdir -p /usr/bin/policy-test-tool/
+mkdir -p /usr/local/share/policy-test-tool/
 
-cat > /usr/bin/policy-test-tool/policies.json << EOF
+cat > /usr/local/share/policy-test-tool/policies.json << EOF
 {
   "policy_user": "$email",
   "managed_users": ["*"],
