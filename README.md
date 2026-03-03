@@ -1,1 +1,1 @@
-A set of tools written in python ( by google + edited by me ) to edit policies.
+A set of tools written in python ( written by google + edited by me ) to edit policies.
